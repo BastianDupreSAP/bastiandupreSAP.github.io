@@ -2,6 +2,7 @@
 
 ## Time dimension
 ### Attached Solutions:
+
 <a href="duplicates_frequency_Line.html" target="_blank">Open interactive chart</a>
 
 <iframe src="duplicates_frequency_Line.html" width="100%" height="600px" style="border:none;"></iframe>
