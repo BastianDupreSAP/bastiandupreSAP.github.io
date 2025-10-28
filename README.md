@@ -2,14 +2,14 @@
 
 ## Time dimension
 ### Attached Solutions:
-<a href="duplicates_frequency_Lines.html" target="_blank">Open interactive chart</a>
+<a href="duplicates_frequency_Line.html" target="_blank">Open interactive chart</a>
 
-<iframe src="duplicates_frequency_Lines.html" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="duplicates_frequency_Line.html" width="100%" height="600px" style="border:none;"></iframe>
 
 ### All Solutions:
-<a href="all_duplicates_frequency_Lines.html" target="_blank">Open interactive chart</a>
+<a href="all_duplicates_frequency_Line.html" target="_blank">Open interactive chart</a>
 
-<iframe src="all_duplicates_frequency_Lines.html" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="all_duplicates_frequency_Line.html" width="100%" height="600px" style="border:none;"></iframe>
 
 ## Heatmap
 ### Attached Solutions:
@@ -24,12 +24,12 @@
 
 ## Confusion Matrix
 ### Attached Solutions:
-<a href=".html" target="_blank">Open interactive chart</a>
+<a href="duplicates_confusion_year_Tcomp100_Tperiod100.html" target="_blank">Open interactive chart</a>
 
-<iframe src=".html" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="duplicates_confusion_year_Tcomp100_Tperiod100.html" width="100%" height="600px" style="border:none;"></iframe>
 
 ### All Solutions:
-<a href=".html" target="_blank">Open interactive chart</a>
+<a href="duplicates_All_confusion_year_Tcomp100_Tperiod100.html" target="_blank">Open interactive chart</a>
 
-<iframe src=".html" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="duplicates_All_confusion_year_Tcomp100_Tperiod100.html" width="100%" height="600px" style="border:none;"></iframe>
 
